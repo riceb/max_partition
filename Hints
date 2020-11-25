@@ -1,0 +1,2 @@
+Hint 1: What does it mean if I can sorted partition the array at index i? Try to come up with a naive solution first.
+Hint 2: Think about how to dynamically store important information about each index instead of unnecessarily scanning the array too many times. 

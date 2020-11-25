@@ -1,0 +1,9 @@
+Sorted Partition
+
+A partition of an array is a set of indices that separate the array into sub-arrays. For a given partition, if sorting each sub-array in-place sorts the entire array, we call it a sorted partition. 
+
+Given an array a of length n, write the function max_partition that returns the highest number of sub-arrays any sorted partition of a can create. 
+
+Example 1: For a = [1,2,3,5], max_function should return 4, as we have the max sorted partition of [1], [2], [3], [5].
+
+Example 2: For a = [3,4,1,7,9,8], max_function should return 3, as we have the max sorted partition of [3,4,1], [7], [9,8].  
